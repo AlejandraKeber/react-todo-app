@@ -18,6 +18,10 @@ handleUpdatedDone = event => {
   }
 }
 
+componentWillUnmount() {
+  console.log("Cleaning up...")
+}
+
   render (){
   const completedStyle = {
     fontStyle: "italic",

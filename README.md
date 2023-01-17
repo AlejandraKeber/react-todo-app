@@ -49,19 +49,6 @@ The app was developed using React js, JavaScript and CSS
   </ul>
 </details>
 
-<details>
-  <summary>Server</summary>
-  <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
-  </ul>
-</details>
-
-<details>
-<summary>Database</summary>
-  <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
-  </ul>
-</details>
 
 <!-- Features -->
 
@@ -69,9 +56,9 @@ The app was developed using React js, JavaScript and CSS
 
 > Describe between 1-3 key features of the application.
 
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+- **[Add To dos items to the list]**
+- **[Mark To dos items as completed]**
+- **[Delete To dos items]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -121,30 +108,6 @@ To run the project, execute the following command:
   npm start
 ```
 
-### Run tests
-
-To run tests, run the following command:
-
-<!--
-Example command:
-
-```sh
-  bin/rails test test/models/article_test.rb
-```
---->
-
-### Deployment
-
-You can deploy this project using:
-
-<!--
-Example:
-
-```sh
-
-```
- -->
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
@@ -165,9 +128,7 @@ Example:
 
 > Describe 1 - 3 features you will add to the project.
 
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+- [ ] **[Add style to the navbar]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -179,26 +140,6 @@ Contributions, issues, and feature requests are welcome!
 
 Feel free to check the [issues page](https://github.com/AlejandraKeber/react-todo-app/issues).
 
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- SUPPORT -->
-
-## ⭐️ Show your support <a name="support"></a>
-
-> Write a message to encourage readers to support your project
-
-If you like this project...
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- ACKNOWLEDGEMENTS -->
-
-## 🙏 Acknowledgments <a name="acknowledgements"></a>
-
-> Give credit to everyone who inspired your codebase.
-
-I would like to thank...
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
